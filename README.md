@@ -17,4 +17,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarikbouchaala&show_icons=true&locale=en" alt="tarikbouchaala" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edraouihamza&" alt="edraouihamza" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=
+Edraoui Hamza&" alt="edraouihamza" /></p>
